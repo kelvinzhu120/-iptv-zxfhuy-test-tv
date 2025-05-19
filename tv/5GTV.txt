@@ -3185,7 +3185,7 @@ heyzo_2075 メイドさん-竹田しょうこ,https://t27.cdn2020.com/video/,htt
 松视3,http://m6z.cn/5zN90y
 松视3,http://18.svi-studio.com:80/live/426804892399/739490745427/20205.m3u8
 松视3,https://18.svi-studio.com/live/271871095922/006886711863/20205.m3u8
-松视4,http://18.svi-studio.com:8880/get.php?username=652484888807&password=195449585962&type=m3u&output=,http:
+松视4,http://18.svi-studio.com:8880/get.php?username=652484888807&password=195449585962&type=m3u&output=
 香蕉,http://18.svi-studio.com:80/live/652484888807/195449585962/4.m3u8
 香蕉,http://18.svi-studio.com:8880/live/624372101145/418430465490/4.m3u8
 18live1,http://18.svi-studio.com:80/live/875994180836/930699661147/101422.m3u8
